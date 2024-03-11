@@ -9,7 +9,7 @@ function App() {
         <p>Just another web app</p>
         <a
           className="App-link"
-          href="https://d966-125-25-38-184.ngrok-free.app/?isPush=true"
+          href="https://capco-nuttapon.github.io/poc_kyc_web/#/?isPush=true"
         >
           Push to KYC
         </a>
