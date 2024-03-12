@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/poc_other_web_for_kyc/static/css/main.4eaff797.css",
-    "main.js": "/poc_other_web_for_kyc/static/js/main.44342f3b.js",
+    "main.css": "/poc_other_web_for_kyc/static/css/main.d7c1db57.css",
+    "main.js": "/poc_other_web_for_kyc/static/js/main.f85bdbe8.js",
     "static/js/453.2e8cc0ab.chunk.js": "/poc_other_web_for_kyc/static/js/453.2e8cc0ab.chunk.js",
     "static/media/logo_capco.png": "/poc_other_web_for_kyc/static/media/logo_capco.4b24b154bab3ed1820ab.png",
     "index.html": "/poc_other_web_for_kyc/index.html",
-    "main.4eaff797.css.map": "/poc_other_web_for_kyc/static/css/main.4eaff797.css.map",
-    "main.44342f3b.js.map": "/poc_other_web_for_kyc/static/js/main.44342f3b.js.map",
+    "main.d7c1db57.css.map": "/poc_other_web_for_kyc/static/css/main.d7c1db57.css.map",
+    "main.f85bdbe8.js.map": "/poc_other_web_for_kyc/static/js/main.f85bdbe8.js.map",
     "453.2e8cc0ab.chunk.js.map": "/poc_other_web_for_kyc/static/js/453.2e8cc0ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4eaff797.css",
-    "static/js/main.44342f3b.js"
+    "static/css/main.d7c1db57.css",
+    "static/js/main.f85bdbe8.js"
   ]
 }
